@@ -15,6 +15,6 @@ Na pasta raiz do projeto, instale as dependências usando o comando:
 `npm install`
 
 Para rodar os testes, execute o comando: 
-`percy exec -- cypress run`
+`npx percy exec -- cypress run`
 
 Após os testes serem executados, os resultados das comparações dos snapshots podem ser vistos na página do seu projeto no percy.
